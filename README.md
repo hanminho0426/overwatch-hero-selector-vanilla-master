@@ -2,4 +2,4 @@
 
 ## [OVERWATCH](https://sharp-lumiere-c7085f.netlify.app/ "Netlify로 이동")
 
-- CSS, HTML로 만드는 오버워치 캐릭터 선택화면
+- CSS, HTML로만 생성하는 오버워치 캐릭터 선택화면
